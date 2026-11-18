@@ -1,0 +1,4 @@
+<resources>
+ <string name="app_name">万象棋 AI 实验助手</string>
+ <string name="service_desc">通过 OCR 识别当前屏幕并提供三分倒转策略建议，允许用户确认后点击。</string>
+</resources>
